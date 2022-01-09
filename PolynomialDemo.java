@@ -1,6 +1,4 @@
-//Chaorui Xiang
-//CSC236-02
-//Lab3#PolynomialDemo
+
 import java.io.DataInputStream;
 import java.io.IOException;
 
