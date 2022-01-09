@@ -1,6 +1,4 @@
-//Chaorui Xiang
-//CSC236-02
-//Lab3#PolynomialADT
+
 
 public interface PolynomialADT
 {
